@@ -5,7 +5,7 @@ library.load_books()
 
 while True:
 
-    print("=== Library Menu ===")
+    print("=== Library Management System ===")
 
     print(
         "1. Add Book \n"
