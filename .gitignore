@@ -1,0 +1,5 @@
+#Python bytecode
+__pycache__
+
+#Library test data
+books.json
